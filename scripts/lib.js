@@ -37,7 +37,12 @@ const TEMA = [
 ];
 const tebakTema = (teks) => (TEMA.find(([, re]) => re.test(teks)) || [null])[0];
 
+// Kategori yang seluruh isinya religius; aplikasi umum cukup tidak memuat berkasnya.
+const KATEGORI_RELIGIUS = ['alquran', 'hadis', 'nasihat-sahabat', 'nasihat-ulama'];
+// Istilah keagamaan untuk menandai kalimat religius di kategori umum (kolom `religius`).
+const RELIGIUS = kata('allah', 'tuhan', 'tuhanmu', 'tuhannya', 'kepada-nya', 'surga', 'neraka', 'akhirat', 'akhiratmu', 'dosa', 'pahala', 'takwa', 'bertakwa', 'iman', 'beriman', 'islam', 'muslim', 'nabi', 'rasul', 'rasulullah', 'ibadah', 'beribadah', 'salat', 'shalat', 'sembahyang', 'doa', 'berdoa', 'mendoakan', 'azan', 'masjid', 'halal', 'haram', 'amalan', 'beramal', 'insyaallah', 'syafaat', 'maksiat', 'zikir', 'malaikat', 'wahyu', 'dakwah', 'rezeki', 'pesantren');
+
 /** Tanggal hari ini (WIB) sebagai YYYY-MM-DD. */
 const hariIni = () => new Date(Date.now() + 7 * 3600e3).toISOString().slice(0, 10);
 
-module.exports = { ROOT, KATEGORI, baca, tulis, bacaData, tulisData, bacaKandidat, tulisKandidat, STATUS, DITOLAK, normal, tebakTema, hariIni };
+module.exports = { ROOT, KATEGORI, KATEGORI_RELIGIUS, RELIGIUS, baca, tulis, bacaData, tulisData, bacaKandidat, tulisKandidat, STATUS, DITOLAK, normal, tebakTema, hariIni };

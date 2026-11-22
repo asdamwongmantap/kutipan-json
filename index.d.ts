@@ -14,6 +14,8 @@ export interface Kutipan {
   /** Surah dan ayat, perawi hadis, judul kitab/buku, atau pidato. */
   rujukan: string | null;
   tema: TemaKutipan;
+  /** true untuk kalimat bernuansa keagamaan di kategori umum. alquran, hadis, nasihat-* selalu religius. */
+  religius?: boolean;
   teks_asli?: string;
   catatan?: string;
   sumber_url?: string;
@@ -21,5 +23,7 @@ export interface Kutipan {
 }
 
 export const KATEGORI: KategoriKutipan[];
+/** Kategori yang seluruh isinya religius. */
+export const KATEGORI_RELIGIUS: KategoriKutipan[];
 export const perKategori: Record<KategoriKutipan, Kutipan[]>;
 export const semua: Kutipan[];

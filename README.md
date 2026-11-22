@@ -51,6 +51,7 @@ Satu berkas per kategori, di kedua folder:
 | `penutur` | Siapa yang mengucapkan atau menulis; `null` untuk ayat dan kalimat orisinal |
 | `rujukan` | Surah dan ayat, perawi hadis, judul kitab atau buku, pidato; `null` bila tidak ada |
 | `tema` | Salah satu dari `belajar`, `usaha`, `waktu`, `diri`, `sesama`, `sabar`, `syukur`, `ibadah`, `doa` |
+| `religius` | *(opsional)* `true` untuk kalimat bernuansa keagamaan di kategori umum (motivasi, kata-bijak, kutipan-buku, peribahasa, hikmah), supaya aplikasi umum bisa melewatinya. Kategori `alquran`, `hadis`, dan `nasihat-*` selalu religius sehingga tidak memakai kolom ini. |
 | `teks_asli` | *(opsional)* Teks bahasa asli, mis. teks Arab ayat |
 | `catatan` | *(opsional)* Catatan atribusi, mis. "masyhur dinisbatkan kepada …, rujukan tertulisnya belum dipastikan" |
 | `sumber_url`, `lisensi` | *(opsional)* Untuk butir yang diambil dari sumber daring |
@@ -68,6 +69,10 @@ npm install github:asdamwongmantap/kutipan-json#v1.0.0
 ```ts
 // Satu kategori saja (bundle lebih kecil)
 import hadis from 'kutipan-json/data/hadis.json';
+
+// Aplikasi umum: kategori umum tanpa kalimat religius
+import motivasi from 'kutipan-json/data/motivasi.json';
+const umum = motivasi.filter((k) => !k.religius);
 
 // Semua kategori
 import { perKategori, semua, type Kutipan } from 'kutipan-json';
@@ -98,9 +103,12 @@ npm run terima -- eq-94-5 hd-bukhari-15              # pindahkan ke data/ (dapat
 npm run terima -- eq-2-153 --tema=sabar               # sekaligus tetapkan tema
 npm run terima -- wq-buyahamka-1a2b3c4d --kategori=nasihat-ulama
 npm run terima -- --semua=peribahasa                  # semua kandidat satu kategori (tinjau dulu!)
+npm run terima -- wq-x-1a2b3c4d --religius=false     # batalkan tanda religius otomatis
 npm run tolak -- eq-2-282 wq-soekarno-1a2b3c4d        # buang; tidak akan diambil lagi
 npm run validate                                      # cek skema, id, dan duplikat
 ```
+
+Saat diterima ke kategori umum, kalimat yang memuat istilah keagamaan (Allah, doa, ibadah, surga, dll.) otomatis diberi `"religius": true`. `npm run validate` memberi peringatan bila ada kalimat seperti itu yang belum diputuskan.
 
 Crawl juga bisa dijalankan lokal: `npm run crawl` (semua sumber) atau `npm run crawl -- equran` (satu sumber). Jumlah per hari diatur lewat env `EQURAN_SURAT`, `HADIS_BAGIAN`, dan `WIKIQUOTE_HALAMAN`.
 

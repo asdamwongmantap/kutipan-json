@@ -29,7 +29,8 @@
     "kategori": "motivasi",
     "penutur": null,
     "rujukan": null,
-    "tema": "usaha"
+    "tema": "usaha",
+    "religius": true
   },
   {
     "id": "motivasi-0005",
@@ -365,7 +366,8 @@
     "kategori": "motivasi",
     "penutur": null,
     "rujukan": null,
-    "tema": "usaha"
+    "tema": "usaha",
+    "religius": true
   },
   {
     "id": "motivasi-0047",
@@ -445,7 +447,8 @@
     "kategori": "motivasi",
     "penutur": null,
     "rujukan": null,
-    "tema": "diri"
+    "tema": "diri",
+    "religius": true
   },
   {
     "id": "motivasi-0057",
@@ -493,7 +496,8 @@
     "kategori": "motivasi",
     "penutur": null,
     "rujukan": null,
-    "tema": "doa"
+    "tema": "doa",
+    "religius": true
   },
   {
     "id": "motivasi-0063",
@@ -589,7 +593,8 @@
     "kategori": "motivasi",
     "penutur": null,
     "rujukan": null,
-    "tema": "doa"
+    "tema": "doa",
+    "religius": true
   },
   {
     "id": "motivasi-0075",
@@ -669,7 +674,8 @@
     "kategori": "motivasi",
     "penutur": null,
     "rujukan": null,
-    "tema": "sesama"
+    "tema": "sesama",
+    "religius": true
   },
   {
     "id": "motivasi-0085",
@@ -725,7 +731,8 @@
     "kategori": "motivasi",
     "penutur": null,
     "rujukan": null,
-    "tema": "waktu"
+    "tema": "waktu",
+    "religius": true
   },
   {
     "id": "motivasi-0092",
@@ -733,7 +740,8 @@
     "kategori": "motivasi",
     "penutur": null,
     "rujukan": null,
-    "tema": "waktu"
+    "tema": "waktu",
+    "religius": true
   },
   {
     "id": "motivasi-0093",
@@ -749,7 +757,8 @@
     "kategori": "motivasi",
     "penutur": null,
     "rujukan": null,
-    "tema": "waktu"
+    "tema": "waktu",
+    "religius": true
   },
   {
     "id": "motivasi-0095",
@@ -797,7 +806,8 @@
     "kategori": "motivasi",
     "penutur": null,
     "rujukan": null,
-    "tema": "ibadah"
+    "tema": "ibadah",
+    "religius": true
   },
   {
     "id": "motivasi-0101",

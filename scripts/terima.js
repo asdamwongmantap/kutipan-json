@@ -7,9 +7,12 @@
  *   npm run terima -- wq-soekarno-1a2b3c4d --kategori=kata-bijak
  *   npm run terima -- --semua=peribahasa             terima SEMUA kandidat satu kategori (tinjau dulu!)
  *
+ *   npm run terima -- wq-x-1a2b3c4d --religius=false   batalkan tanda religius otomatis
+ *
+ * Kalimat di kategori umum yang memuat istilah keagamaan otomatis diberi `religius: true`.
  * Kandidat tanpa tema (tebakan gagal) diberi tema "diri" bila --tema tidak diisi.
  */
-const { KATEGORI, bacaData, tulisData, bacaKandidat, tulisKandidat, normal } = require('./lib');
+const { KATEGORI, KATEGORI_RELIGIUS, RELIGIUS, bacaData, tulisData, bacaKandidat, tulisKandidat, normal } = require('./lib');
 
 const opsi = Object.fromEntries(process.argv.slice(2).filter((a) => a.startsWith('--')).map((a) => a.slice(2).split('=')));
 const ids = process.argv.slice(2).filter((a) => !a.startsWith('--'));
@@ -31,12 +34,14 @@ for (const k of pilih) {
     id: `${kat}-${String(data[kat].length + 1).padStart(4, '0')}`,
     teks: k.teks, kategori: kat, penutur: k.penutur, rujukan: k.rujukan, tema: opsi.tema || k.tema || 'diri',
   };
+  if (opsi.religius === 'false') baru.religius = false;
+  else if (opsi.religius === 'true' || (!KATEGORI_RELIGIUS.includes(kat) && RELIGIUS.test(k.teks))) baru.religius = true;
   if (k.teks_asli) baru.teks_asli = k.teks_asli;
   if (k.sumber_url) baru.sumber_url = k.sumber_url;
   if (k.lisensi) baru.lisensi = k.lisensi;
   data[kat].push(baru);
   ada.add(normal(k.teks));
-  console.log(`${k.id} → ${baru.id}`);
+  console.log(`${k.id} → ${baru.id}${baru.religius ? ' (religius)' : ''}`);
   n++;
 }
 for (const k of KATEGORI) { tulisData(k, data[k]); tulisKandidat(k, kandidat[k]); }
