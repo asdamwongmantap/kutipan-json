@@ -1,0 +1,29 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "kutipan.schema.json",
+  "title": "Kutipan",
+  "description": "Daftar kutipan terkurasi dalam satu kategori (satu berkas di data/).",
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["id", "teks", "kategori", "penutur", "rujukan", "tema"],
+    "properties": {
+      "id": { "type": "string", "pattern": "^[a-z]+(-[a-z]+)*-[0-9]{4}$", "description": "<kategori>-<nomor 4 digit>. Tetap, tidak pernah dipakai ulang." },
+      "teks": { "type": "string", "minLength": 3, "description": "Isi kutipan dalam bahasa Indonesia." },
+      "kategori": { "$ref": "#/definitions/kategori" },
+      "penutur": { "type": ["string", "null"], "description": "Siapa yang mengucapkan atau menulis. null untuk ayat dan kalimat orisinal." },
+      "rujukan": { "type": ["string", "null"], "description": "Asal kutipan: surah dan ayat, perawi hadis, judul kitab atau buku, pidato." },
+      "tema": { "$ref": "#/definitions/tema" },
+      "teks_asli": { "type": "string", "description": "Teks bahasa asli bila ada, mis. teks Arab ayat." },
+      "catatan": { "type": "string", "description": "Catatan atribusi atau hal yang perlu ditinjau." },
+      "sumber_url": { "type": "string", "description": "Halaman asal bila diambil dari sumber daring." },
+      "lisensi": { "type": "string", "description": "Lisensi butir ini bila berbeda dari lisensi dataset." }
+    }
+  },
+  "definitions": {
+    "kategori": { "enum": ["alquran", "hadis", "nasihat-sahabat", "nasihat-ulama", "hikmah", "peribahasa", "kutipan-buku", "kata-bijak", "motivasi"] },
+    "tema": { "enum": ["belajar", "usaha", "waktu", "diri", "sesama", "sabar", "syukur", "ibadah", "doa"] }
+  }
+}

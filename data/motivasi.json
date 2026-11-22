@@ -1,0 +1,1394 @@
+[
+  {
+    "id": "motivasi-0001",
+    "teks": "Langkah kecil yang diulang setiap hari mengalahkan semangat besar yang hanya datang sesekali.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0002",
+    "teks": "Jangan menunggu siap sempurna. Mulai dari yang ada, perbaiki sambil berjalan.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0003",
+    "teks": "Kebiasaan baik dibangun dari satu hari yang tidak dilewatkan, lalu hari berikutnya.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0004",
+    "teks": "Amalan yang paling berharga bukan yang terbesar, tetapi yang terus dijaga.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0005",
+    "teks": "Bila hari ini terasa berat, kerjakan versi paling kecilnya. Yang penting rantainya tidak putus.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0006",
+    "teks": "Kemajuan jarang terlihat dalam sehari, tetapi sangat jelas dalam setahun.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0007",
+    "teks": "Disiplin adalah cara menepati janji kepada diri sendiri.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0008",
+    "teks": "Satu pekerjaan yang dikerjakan dengan penuh perhatian lebih berarti daripada sepuluh yang setengah-setengah.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0009",
+    "teks": "Tanyakan pada diri: apakah ini penting, atau hanya mendesak? Lalu kerjakan yang penting dahulu.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0010",
+    "teks": "Perhatianmu adalah modal paling mahal. Pilih untuk apa kamu membelanjakannya.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0011",
+    "teks": "Menolak hal yang tidak perlu adalah cara memberi ruang bagi hal yang berarti.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0012",
+    "teks": "Tenang dulu, baru bergerak. Pikiran yang jernih menghemat banyak langkah.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0013",
+    "teks": "Selesaikan satu hal kecil pagi ini. Rasa tuntasnya akan menarikmu ke hal berikutnya.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0014",
+    "teks": "Ramai bukan berarti maju. Ukur harimu dari yang selesai, bukan dari yang sibuk.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0015",
+    "teks": "Gagal berarti kamu sedang mencoba. Yang berbahaya adalah berhenti belajar darinya.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "motivasi-0016",
+    "teks": "Jangan bandingkan bab pertamamu dengan bab kesepuluh orang lain.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "motivasi-0017",
+    "teks": "Kamu tidak harus mengendalikan semua keadaan, cukup mengendalikan cara menanggapinya.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "motivasi-0018",
+    "teks": "Berbicaralah kepada dirimu seperti kepada sahabat yang sedang kamu semangati.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "motivasi-0019",
+    "teks": "Takut itu wajar. Melangkah sambil takut itulah yang disebut berani.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "motivasi-0020",
+    "teks": "Setelah jatuh, tidak apa-apa duduk sebentar. Yang penting bangun lagi.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "motivasi-0021",
+    "teks": "Kesulitan sering menjadi guru yang paling jujur. Dengarkan pelajarannya.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "motivasi-0022",
+    "teks": "Orang yang merasa cukup belajar sedang berhenti bertumbuh.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0023",
+    "teks": "Bertanya bukan tanda lemah. Itu jalan pintas menuju paham.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0024",
+    "teks": "Satu halaman sehari berarti belasan buku dalam setahun.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0025",
+    "teks": "Ilmu yang tidak diamalkan seperti bekal yang tidak pernah dimakan.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0026",
+    "teks": "Catat satu pelajaran setiap malam. Dalam sebulan kamu punya buku sendiri.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0027",
+    "teks": "Kritik yang jujur adalah hadiah, meski dibungkus kurang rapi.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0028",
+    "teks": "Jadilah murid seumur hidup. Kerendahan hati membuka pintu yang tidak terbuka bagi kesombongan.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0029",
+    "teks": "Waktu tidak bisa diminta kembali. Pakai hari ini sebaik yang kamu mampu.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0030",
+    "teks": "Yang kamu tunda hari ini diam-diam menjadi beban esok hari.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0031",
+    "teks": "Bangun lebih awal bukan soal jam, melainkan soal memberi dirimu waktu yang tenang.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0032",
+    "teks": "Mulailah dengan niat yang lurus. Hasil baik biasanya mengikuti arah yang benar.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0033",
+    "teks": "Berubah tidak menunggu tahun baru. Hari ini juga bisa menjadi hari pertama.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0034",
+    "teks": "Syukuri yang sudah ada, kejar yang belum ada. Keduanya bisa jalan bersamaan.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "syukur"
+  },
+  {
+    "id": "motivasi-0035",
+    "teks": "Jadilah sedikit lebih baik dari dirimu kemarin. Itu sudah lebih dari cukup.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0036",
+    "teks": "Konsisten itu bukan soal semangat, melainkan soal tetap datang meski semangat sedang pergi.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0037",
+    "teks": "Target besar terasa ringan bila dipecah menjadi langkah yang bisa dikerjakan hari ini.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0038",
+    "teks": "Tidak perlu cepat. Yang penting arahnya benar dan kakinya tidak berhenti.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0039",
+    "teks": "Hasil hari ini adalah buah dari kebiasaan kemarin. Tanam yang baik mulai sekarang.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0040",
+    "teks": "Lelah itu tanda kamu sedang berjuang, bukan tanda kamu harus menyerah.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0041",
+    "teks": "Orang yang tekun sering mengalahkan orang berbakat yang malas.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0042",
+    "teks": "Rencana tanpa tindakan hanya angan. Tindakan tanpa rencana hanya kesibukan.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0043",
+    "teks": "Mulailah dari yang paling mudah, agar besok kamu berani mengambil yang lebih sulit.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0044",
+    "teks": "Ketika ingin berhenti, ingat kembali alasan kamu memulai.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0045",
+    "teks": "Keberhasilan jarang datang dalam lompatan; ia datang lewat anak tangga.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0046",
+    "teks": "Usaha yang tidak terlihat orang lain tetap tercatat di sisi Allah.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0047",
+    "teks": "Yang membedakan rencana dan mimpi adalah tanggal mulainya.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0048",
+    "teks": "Satu kebiasaan baik yang bertahan lebih berharga daripada sepuluh tekad yang gugur.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0049",
+    "teks": "Jaga lisanmu. Kata yang sudah keluar tidak bisa ditarik kembali.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0050",
+    "teks": "Sebelum bicara, tanyakan: benarkah, perlukah, dan baikkah?",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0051",
+    "teks": "Hati yang tenang melihat jalan keluar yang tidak terlihat oleh hati yang panik.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0052",
+    "teks": "Jujur kadang merugikan sesaat, tetapi bohong merugikan jauh lebih lama.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0053",
+    "teks": "Kurangi membandingkan, perbanyak bersyukur.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "syukur"
+  },
+  {
+    "id": "motivasi-0054",
+    "teks": "Layar yang terus menyala sering memadamkan waktu yang berharga. Taruh ponselmu sejenak.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0055",
+    "teks": "Fokus pada satu hal sampai selesai adalah kemewahan di zaman yang serba terdistraksi.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0056",
+    "teks": "Niat yang baik menjadikan pekerjaan biasa bernilai ibadah.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0057",
+    "teks": "Merapikan meja hari ini membantu merapikan pikiran esok hari.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0058",
+    "teks": "Diam yang bijak lebih baik daripada kata yang menyakitkan.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0059",
+    "teks": "Amanah kecil yang dijaga hari ini membuka pintu amanah besar esok hari.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0060",
+    "teks": "Jangan biarkan pujian membuatmu lengah, atau kritik membuatmu patah.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0061",
+    "teks": "Rendah hati bukan merendahkan diri, melainkan tidak meninggikan diri.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0062",
+    "teks": "Tidak semua doa dijawab \"ya\" hari ini. Ada yang dijawab \"nanti\", ada yang diganti dengan yang lebih baik.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "doa"
+  },
+  {
+    "id": "motivasi-0063",
+    "teks": "Menangis bukan tanda lemah. Kadang hati perlu dibasuh agar bisa melihat jernih lagi.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "motivasi-0064",
+    "teks": "Masa sulit tidak bertahan selamanya, tetapi orang yang tabah mampu melewatinya.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "motivasi-0065",
+    "teks": "Ujian datang bukan untuk menjatuhkanmu, melainkan untuk menunjukkan seberapa kuat kamu sebenarnya.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "motivasi-0066",
+    "teks": "Hari yang buruk bukan berarti hidup yang buruk.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "motivasi-0067",
+    "teks": "Istirahat bukan kekalahan. Pejuang juga perlu mengisi ulang tenaganya.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "motivasi-0068",
+    "teks": "Kesalahan kemarin adalah pelajaran, bukan jati dirimu.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "motivasi-0069",
+    "teks": "Jika belum bisa mengubah keadaan, ubahlah cara kamu memandangnya.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "motivasi-0070",
+    "teks": "Sabar bukan berarti diam saja, melainkan terus berusaha tanpa mengeluh.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "motivasi-0071",
+    "teks": "Ada saatnya cukup bertahan saja. Itu pun sebuah kemenangan.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "motivasi-0072",
+    "teks": "Luka yang disyukuri sering menjadi pintu menuju kedewasaan.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "motivasi-0073",
+    "teks": "Tidak apa-apa melambat, asal tidak berbalik arah.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "motivasi-0074",
+    "teks": "Serahkan hasilnya kepada Allah setelah kamu menyerahkan usaha terbaikmu.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "doa"
+  },
+  {
+    "id": "motivasi-0075",
+    "teks": "Kebaikan kecil yang tulus lebih membekas daripada hadiah besar yang terpaksa.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0076",
+    "teks": "Dengarkan untuk memahami, bukan sekadar untuk membalas.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0077",
+    "teks": "Lingkungan yang baik membuat kebaikan terasa lebih mudah dikerjakan.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0078",
+    "teks": "Berbagi ilmu tidak membuatmu berkurang; justru membuat ilmumu makin kuat.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0079",
+    "teks": "Ucapkan terima kasih lebih sering. Ia murah, tetapi nilainya mahal.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0080",
+    "teks": "Maafkan, bukan karena mereka pantas, tetapi karena hatimu berhak tenang.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0081",
+    "teks": "Bacalah buku yang membuatmu berpikir, bukan hanya yang membuatmu setuju.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0082",
+    "teks": "Rumah yang hangat dibangun dari kata-kata yang lembut.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0083",
+    "teks": "Kenali seseorang dari caranya memperlakukan orang yang tidak bisa memberinya apa-apa.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0084",
+    "teks": "Sahabat yang baik mengingatkan saat kamu lupa dan mendoakan saat kamu jauh.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0085",
+    "teks": "Satu jam membaca lebih membekas daripada satu jam menggulir layar tanpa tujuan.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0086",
+    "teks": "Muliakan orang tua selagi masih bisa melihat senyum mereka.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0087",
+    "teks": "Kita tumbuh lebih cepat ketika berani mengakui bahwa kita belum tahu.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0088",
+    "teks": "Pagi adalah halaman kosong. Tulislah dengan niat yang baik.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0089",
+    "teks": "Awali hari dengan syukur, maka sisa hari terasa lebih ringan.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "syukur"
+  },
+  {
+    "id": "motivasi-0090",
+    "teks": "Usia bertambah setiap hari. Pastikan bekal juga bertambah.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0091",
+    "teks": "Setiap hari baru adalah kesempatan kedua yang Allah berikan.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0092",
+    "teks": "Doa pagi bukan sekadar pembuka hari, melainkan arah bagi seluruh langkah.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0093",
+    "teks": "Jangan tunggu termotivasi untuk mulai. Mulailah, motivasi akan menyusul.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0094",
+    "teks": "Rezeki tidak pernah salah alamat. Tugasmu menjemputnya dengan cara yang halal.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0095",
+    "teks": "Hari ini mungkin bukan hari terbaikmu, tetapi bisa menjadi hari kamu mulai membaik.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0096",
+    "teks": "Satu kebaikan sebelum matahari meninggi sudah cukup membuat hari bermakna.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0097",
+    "teks": "Masa depan dibentuk oleh apa yang kamu lakukan di pagi-pagi yang biasa.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0098",
+    "teks": "Esok bukan milik kita. Kebaikan yang bisa dilakukan sekarang, lakukan sekarang.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0099",
+    "teks": "Bersyukur atas yang kecil melatih hati untuk menerima yang besar.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "syukur"
+  },
+  {
+    "id": "motivasi-0100",
+    "teks": "Setiap azan adalah pengingat: berhenti sejenak, kembali kepada-Nya.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "ibadah"
+  },
+  {
+    "id": "motivasi-0101",
+    "teks": "Belajar sedikit setiap hari lebih kuat daripada belajar banyak sekali-sekali.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0102",
+    "teks": "Tidak ada pertanyaan yang bodoh. Yang ada hanya rasa ingin tahu yang belum dijawab.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0103",
+    "teks": "Salah saat berlatih itu bukan kegagalan. Itu tanda kamu sedang belajar.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0104",
+    "teks": "Kamu tidak harus mengerti semuanya hari ini. Cukup mengerti lebih banyak daripada kemarin.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0105",
+    "teks": "Buku yang dibaca sepuluh menit tetap lebih berguna daripada buku yang tidak pernah dibuka.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0106",
+    "teks": "Catatan kecil hari ini bisa menyelamatkanmu saat ujian nanti.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0107",
+    "teks": "Orang pintar bukan yang tidak pernah salah, tetapi yang mau memperbaiki kesalahannya.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0108",
+    "teks": "Pelan-pelan tidak apa-apa. Yang penting tidak berhenti.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0109",
+    "teks": "Setiap ahli pernah menjadi pemula yang tidak menyerah.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0110",
+    "teks": "Bertanya hari ini lebih baik daripada menyesal besok.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0111",
+    "teks": "Ilmu tidak akan berkurang saat dibagi. Ia justru bertambah.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0112",
+    "teks": "Membaca membuka jendela. Menulis membangun pintunya.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0113",
+    "teks": "Kalau sulit, pecah jadi bagian kecil. Lalu kerjakan satu saja dulu.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0114",
+    "teks": "Nilai hanya angka. Yang kamu pahami akan terbawa seumur hidup.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0115",
+    "teks": "Mengulang pelajaran itu seperti menyiram tanaman. Sedikit, tetapi rutin.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0116",
+    "teks": "Tidak paham bukan alasan berhenti. Itu alasan untuk bertanya.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0117",
+    "teks": "Ujian mengukur persiapanmu, bukan harga dirimu.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0118",
+    "teks": "Hari ini kamu belajar satu kata baru. Setahun lagi, kamu punya ratusan.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "motivasi-0119",
+    "teks": "Mulai dari yang bisa, dengan yang ada, di tempat kamu berada.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0120",
+    "teks": "Langkah kecil yang diulang setiap hari akan menjadi perjalanan yang jauh.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0121",
+    "teks": "Jangan tunggu semangat datang. Mulai saja, semangat akan menyusul.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0122",
+    "teks": "Yang membedakan selesai dan tidak selesai sering kali hanya satu langkah lagi.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0123",
+    "teks": "Lelah itu wajar. Menyerah itu pilihan.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0124",
+    "teks": "Kamu tidak perlu sempurna untuk memulai, tetapi kamu perlu memulai untuk menjadi lebih baik.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0125",
+    "teks": "Hasil tidak selalu datang cepat, tetapi usaha tidak pernah benar-benar sia-sia.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0126",
+    "teks": "Kalau jatuh, catat pelajarannya. Lalu berdiri lagi.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0127",
+    "teks": "Keberanian bukan tidak takut, tetapi tetap melangkah walau takut.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0128",
+    "teks": "Hari yang berat sering kali adalah hari yang paling banyak mengajarkan.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0129",
+    "teks": "Fokus pada satu hal sampai selesai lebih baik daripada lima hal yang setengah jadi.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0130",
+    "teks": "Kerjakan dulu yang paling kamu hindari. Sisanya akan terasa ringan.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0131",
+    "teks": "Kesempatan jarang datang dengan mengetuk pintu. Biasanya ia menunggu kamu yang membukanya.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0132",
+    "teks": "Satu persen lebih baik setiap hari sudah cukup.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0133",
+    "teks": "Mimpi besar dimulai dari jadwal yang kecil dan ditepati.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0134",
+    "teks": "Rintangan bukan tanda berhenti. Ia tanda kamu sedang menuju sesuatu.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0135",
+    "teks": "Yang kamu latih diam-diam akan terlihat saat kamu tampil.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0136",
+    "teks": "Tidak apa-apa gagal hari ini. Besok kamu datang dengan pengalaman lebih.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "motivasi-0137",
+    "teks": "Lima menit sekarang lebih berharga daripada satu jam nanti yang tidak pernah datang.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0138",
+    "teks": "Menunda hanya memindahkan beban ke dirimu yang lebih lelah.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0139",
+    "teks": "Pagi yang dimulai dengan tenang biasanya berakhir dengan lebih banyak selesai.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0140",
+    "teks": "Kamu tidak kekurangan waktu. Kamu hanya perlu memilih mana yang didahulukan.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0141",
+    "teks": "Hari ini adalah besok yang kemarin kamu tunggu.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0142",
+    "teks": "Istirahat bukan membuang waktu. Itu bagian dari bekerja dengan baik.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0143",
+    "teks": "Jangan habiskan hari ini untuk menyesali kemarin atau mencemaskan besok.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0144",
+    "teks": "Satu hari yang dipakai dengan sadar lebih berarti daripada seminggu yang berlalu begitu saja.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0145",
+    "teks": "Mulai tepat waktu adalah bentuk menghargai dirimu sendiri.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0146",
+    "teks": "Yang kamu lakukan berulang setiap hari akan menjadi siapa kamu nanti.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0147",
+    "teks": "Kalau ragu, lakukan sekarang. Ragu tidak akan berkurang dengan menunggu.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "motivasi-0148",
+    "teks": "Kamu lebih kuat daripada yang kamu kira, dan lebih mampu daripada yang kamu rasakan hari ini.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0149",
+    "teks": "Bersikap baik pada diri sendiri bukan berarti manja. Itu cara supaya kamu bisa terus melangkah.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0150",
+    "teks": "Tidak semua hari harus produktif. Beberapa hari cukup untuk bertahan, dan itu sudah hebat.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0151",
+    "teks": "Kamu boleh lelah, boleh sedih, boleh berhenti sebentar. Yang tidak boleh hanya berhenti selamanya.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0152",
+    "teks": "Kesalahanmu bukan identitasmu. Caramu memperbaikinya yang menentukan.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0153",
+    "teks": "Suara yang paling sering kamu dengar adalah suaramu sendiri. Pastikan ia menyemangati.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0154",
+    "teks": "Kamu tidak harus disukai semua orang untuk menjadi berharga.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0155",
+    "teks": "Percaya diri bukan merasa paling bisa, tetapi berani mencoba walau belum bisa.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0156",
+    "teks": "Rayakan kemajuan kecil. Itu bahan bakar untuk kemajuan berikutnya.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0157",
+    "teks": "Tenang. Kamu sedang berproses, bukan tertinggal.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0158",
+    "teks": "Jadilah versi dirimu yang membuat dirimu lima tahun lalu bangga.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0159",
+    "teks": "Kamu tidak perlu membuktikan apa pun kepada siapa pun selain dirimu sendiri.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0160",
+    "teks": "Napas panjang dulu. Masalah besar sering tampak lebih kecil setelah tenang.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0161",
+    "teks": "Nilai dirimu tidak turun hanya karena seseorang tidak bisa melihatnya.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0162",
+    "teks": "Kamu sudah melewati semua hari terburukmu. Hari ini juga akan terlewati.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "motivasi-0163",
+    "teks": "Kata-kata baik itu gratis, tetapi dampaknya bisa seharga satu hari yang berubah.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0164",
+    "teks": "Membantu teman memahami pelajaran adalah cara terbaik memahaminya sendiri.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0165",
+    "teks": "Kamu tidak pernah tahu beban orang lain. Bersikap ramah selalu pilihan yang aman.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0166",
+    "teks": "Ucapan terima kasih yang tulus bisa mengubah suasana satu ruangan.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0167",
+    "teks": "Orang baik bukan yang tidak pernah marah, tetapi yang tahu kapan harus memaafkan.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0168",
+    "teks": "Dengarkan untuk memahami, bukan hanya untuk menjawab.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0169",
+    "teks": "Berbagi ilmu tidak membuatmu tersaingi. Ia membuatmu diingat.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0170",
+    "teks": "Senyum pertama di pagi hari sering kali menular ke seluruh hari.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0171",
+    "teks": "Memuji usaha orang lain tidak mengurangi usahamu sendiri.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0172",
+    "teks": "Tim yang saling percaya berjalan lebih jauh daripada orang hebat yang berjalan sendiri.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0173",
+    "teks": "Minta maaf lebih dulu bukan tanda kalah. Itu tanda dewasa.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "motivasi-0174",
+    "teks": "Hargai guru dan orang tuamu hari ini. Mereka menanam, kamu yang menuai.",
+    "kategori": "motivasi",
+    "penutur": null,
+    "rujukan": null,
+    "tema": "sesama"
+  }
+]

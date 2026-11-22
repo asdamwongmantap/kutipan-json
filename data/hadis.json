@@ -1,0 +1,954 @@
+[
+  {
+    "id": "hadis-0001",
+    "teks": "Amalan yang paling dicintai Allah ialah yang paling konsisten, meski sedikit.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "usaha"
+  },
+  {
+    "id": "hadis-0002",
+    "teks": "Sebaik-baik manusia ialah yang paling bermanfaat bagi sesama.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Ahmad",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0003",
+    "teks": "Dua nikmat yang sering dilalaikan kebanyakan orang: kesehatan dan waktu luang.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari",
+    "tema": "syukur"
+  },
+  {
+    "id": "hadis-0004",
+    "teks": "Orang kuat bukanlah yang menang bergulat, melainkan yang mampu menahan diri ketika marah.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "usaha"
+  },
+  {
+    "id": "hadis-0005",
+    "teks": "Di antara tanda baiknya keislaman seseorang ialah meninggalkan hal yang tidak bermanfaat baginya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0006",
+    "teks": "Bersungguh-sungguhlah pada hal yang bermanfaat bagimu, mohonlah pertolongan Allah, dan jangan merasa lemah.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "waktu"
+  },
+  {
+    "id": "hadis-0007",
+    "teks": "Setiap amal tergantung pada niatnya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0008",
+    "teks": "Orang beriman tidak jatuh ke lubang yang sama dua kali.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "sabar"
+  },
+  {
+    "id": "hadis-0009",
+    "teks": "Barang siapa menempuh jalan untuk mencari ilmu, Allah mudahkan baginya jalan menuju surga.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "belajar"
+  },
+  {
+    "id": "hadis-0010",
+    "teks": "Manfaatkan lima perkara sebelum lima perkara: mudamu sebelum tuamu, sehatmu sebelum sakitmu, kayamu sebelum miskinmu, luangmu sebelum sibukmu, dan hidupmu sebelum matimu.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Al-Hakim",
+    "tema": "waktu"
+  },
+  {
+    "id": "hadis-0011",
+    "teks": "Permudahlah, jangan mempersulit. Berilah kabar gembira, jangan membuat orang lari.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0012",
+    "teks": "Senyummu di hadapan saudaramu adalah sedekah.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0013",
+    "teks": "Tidak sempurna iman seseorang sampai ia mencintai untuk saudaranya apa yang ia cintai untuk dirinya sendiri.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0014",
+    "teks": "Barang siapa beriman kepada Allah dan hari akhir, hendaklah ia berkata baik atau diam.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0015",
+    "teks": "Bertakwalah kepada Allah di mana pun kamu berada, iringilah keburukan dengan kebaikan niscaya menghapusnya, dan pergaulilah manusia dengan akhlak yang baik.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0016",
+    "teks": "Jagalah Allah, niscaya Allah menjagamu.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi",
+    "tema": "doa"
+  },
+  {
+    "id": "hadis-0017",
+    "teks": "Ketahuilah, kemenangan bersama kesabaran, kelapangan bersama kesusahan, dan bersama kesulitan ada kemudahan.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Ahmad",
+    "tema": "sabar"
+  },
+  {
+    "id": "hadis-0018",
+    "teks": "Sungguh menakjubkan urusan orang beriman. Jika mendapat kesenangan ia bersyukur, dan jika ditimpa kesusahan ia bersabar; keduanya baik baginya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "sabar"
+  },
+  {
+    "id": "hadis-0019",
+    "teks": "Kekayaan bukanlah banyaknya harta, tetapi kekayaan sejati adalah kaya hati.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0020",
+    "teks": "Allah tidak melihat rupa dan harta kalian, tetapi Dia melihat hati dan amal kalian.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0021",
+    "teks": "Jadilah engkau di dunia seakan-akan orang asing atau seorang pengembara.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari",
+    "tema": "usaha"
+  },
+  {
+    "id": "hadis-0022",
+    "teks": "Tangan di atas lebih baik daripada tangan di bawah.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0023",
+    "teks": "Tidaklah seseorang memakan makanan yang lebih baik daripada hasil kerja tangannya sendiri.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari",
+    "tema": "usaha"
+  },
+  {
+    "id": "hadis-0024",
+    "teks": "Orang mukmin yang paling sempurna imannya ialah yang paling baik akhlaknya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Abu Dawud & Tirmidzi",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0025",
+    "teks": "Sesungguhnya aku diutus untuk menyempurnakan akhlak yang mulia.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Ahmad",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0026",
+    "teks": "Sedekah tidak akan mengurangi harta.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0027",
+    "teks": "Kebaikan adalah akhlak yang baik, dan dosa adalah apa yang mengganjal di hatimu dan kamu tidak suka orang lain mengetahuinya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0028",
+    "teks": "Tinggalkan apa yang meragukanmu menuju apa yang tidak meragukanmu.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi & Nasa'i",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0029",
+    "teks": "Seseorang meminta nasihat kepada Nabi, beliau bersabda: “Jangan marah.” Beliau mengulanginya beberapa kali.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari",
+    "tema": "sabar"
+  },
+  {
+    "id": "hadis-0030",
+    "teks": "Agama itu nasihat.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "ibadah"
+  },
+  {
+    "id": "hadis-0031",
+    "teks": "Sayangilah yang ada di bumi, niscaya Yang di langit akan menyayangimu.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0032",
+    "teks": "Barang siapa memudahkan urusan orang yang kesulitan, Allah akan memudahkan urusannya di dunia dan akhirat.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0033",
+    "teks": "Allah senantiasa menolong hamba-Nya selama hamba itu menolong saudaranya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0034",
+    "teks": "Barang siapa menunjukkan kepada kebaikan, ia mendapat pahala seperti orang yang mengerjakannya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0035",
+    "teks": "Mukmin yang kuat lebih baik dan lebih dicintai Allah daripada mukmin yang lemah, dan pada keduanya ada kebaikan.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "usaha"
+  },
+  {
+    "id": "hadis-0036",
+    "teks": "Lihatlah orang yang berada di bawahmu dan jangan melihat yang di atasmu, agar kamu tidak meremehkan nikmat Allah.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "syukur"
+  },
+  {
+    "id": "hadis-0037",
+    "teks": "Setiap kebaikan adalah sedekah.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0038",
+    "teks": "Jangan meremehkan kebaikan sedikit pun, walau hanya menemui saudaramu dengan wajah berseri.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "waktu"
+  },
+  {
+    "id": "hadis-0039",
+    "teks": "Sebaik-baik kalian adalah yang mempelajari Al-Qur'an dan mengajarkannya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari",
+    "tema": "ibadah"
+  },
+  {
+    "id": "hadis-0040",
+    "teks": "Seorang muslim adalah orang yang kaum muslimin selamat dari lisan dan tangannya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0041",
+    "teks": "Kejujuran membawa kepada kebaikan, dan kebaikan membawa ke surga.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0042",
+    "teks": "Doa adalah ibadah.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Abu Dawud & Tirmidzi",
+    "tema": "doa"
+  },
+  {
+    "id": "hadis-0043",
+    "teks": "Seandainya kalian bertawakal kepada Allah dengan sebenar-benarnya, niscaya Dia memberi rezeki seperti kepada burung: pergi pagi dalam keadaan lapar, pulang sore dalam keadaan kenyang.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi",
+    "tema": "waktu"
+  },
+  {
+    "id": "hadis-0044",
+    "teks": "Ikatlah untamu, lalu bertawakallah.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi",
+    "tema": "usaha"
+  },
+  {
+    "id": "hadis-0045",
+    "teks": "Kaki seorang hamba tidak akan bergeser pada hari kiamat sampai ditanya tentang umurnya untuk apa dihabiskan, ilmunya untuk apa diamalkan, hartanya dari mana dan ke mana, serta tubuhnya untuk apa digunakan.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi",
+    "tema": "waktu"
+  },
+  {
+    "id": "hadis-0046",
+    "teks": "Sesungguhnya Allah itu indah dan menyukai keindahan.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0047",
+    "teks": "Bersuci adalah separuh dari iman.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "ibadah"
+  },
+  {
+    "id": "hadis-0048",
+    "teks": "Barang siapa yang Allah kehendaki kebaikan baginya, Allah pahamkan ia dalam urusan agama.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "belajar"
+  },
+  {
+    "id": "hadis-0049",
+    "teks": "Apabila manusia meninggal dunia, terputuslah amalnya kecuali tiga: sedekah jariyah, ilmu yang bermanfaat, dan anak saleh yang mendoakannya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "belajar"
+  },
+  {
+    "id": "hadis-0050",
+    "teks": "Barang siapa membangun masjid karena Allah, Allah bangunkan baginya rumah di surga.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "ibadah"
+  },
+  {
+    "id": "hadis-0051",
+    "teks": "Rida Allah ada pada rida orang tua, dan murka Allah ada pada murka orang tua.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0052",
+    "teks": "Seseorang bertanya siapa yang paling berhak ia pergauli dengan baik. Beliau menjawab: \"Ibumu, ibumu, ibumu, kemudian ayahmu.\"",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "belajar"
+  },
+  {
+    "id": "hadis-0053",
+    "teks": "Sebaik-baik kalian ialah yang paling baik kepada keluarganya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0054",
+    "teks": "Sesungguhnya Allah Maha Lembut dan mencintai kelembutan dalam segala urusan.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0055",
+    "teks": "Tidaklah kelembutan ada pada sesuatu melainkan ia menghiasinya, dan tidaklah ia dicabut dari sesuatu melainkan memperburuknya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0056",
+    "teks": "Malu adalah bagian dari iman.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0057",
+    "teks": "Sampaikanlah dariku walau hanya satu ayat.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0058",
+    "teks": "Orang yang cerdas ialah yang menundukkan dirinya dan beramal untuk kehidupan setelah mati.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi",
+    "tema": "waktu"
+  },
+  {
+    "id": "hadis-0059",
+    "teks": "Barang siapa menutupi aib seorang muslim, Allah akan menutupi aibnya di dunia dan akhirat.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0060",
+    "teks": "Janganlah kalian saling dengki, saling membenci, dan saling membelakangi. Jadilah kalian hamba-hamba Allah yang bersaudara.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0061",
+    "teks": "Takutlah kalian terhadap kezaliman, karena kezaliman adalah kegelapan pada hari kiamat.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "doa"
+  },
+  {
+    "id": "hadis-0062",
+    "teks": "Jauhilah neraka walau hanya dengan bersedekah separuh butir kurma.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0063",
+    "teks": "Dua kalimat ringan di lisan, berat di timbangan, dan dicintai Ar-Rahman: Subhanallahi wa bihamdihi, Subhanallahil ‘azhim.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "doa"
+  },
+  {
+    "id": "hadis-0064",
+    "teks": "Perumpamaan orang yang mengingat Tuhannya dengan yang tidak mengingat-Nya seperti orang hidup dan orang mati.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari",
+    "tema": "doa"
+  },
+  {
+    "id": "hadis-0065",
+    "teks": "Salat yang paling utama setelah salat wajib ialah salat malam.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "doa"
+  },
+  {
+    "id": "hadis-0066",
+    "teks": "Allah turun ke langit dunia pada sepertiga malam terakhir dan berfirman: \"Siapa yang berdoa kepada-Ku, akan Aku kabulkan.\"",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "doa"
+  },
+  {
+    "id": "hadis-0067",
+    "teks": "Kerjakanlah amal sesuai kemampuan kalian, karena Allah tidak bosan hingga kalian sendiri yang bosan.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "usaha"
+  },
+  {
+    "id": "hadis-0068",
+    "teks": "Sesungguhnya agama ini mudah. Tidaklah seseorang memberat-beratkan diri dalam agama melainkan ia akan kalah.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari",
+    "tema": "usaha"
+  },
+  {
+    "id": "hadis-0069",
+    "teks": "Luruskanlah, dekatilah kesempurnaan, dan bergembiralah.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari",
+    "tema": "waktu"
+  },
+  {
+    "id": "hadis-0070",
+    "teks": "Barang siapa tidak berterima kasih kepada manusia, ia tidak bersyukur kepada Allah.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Abu Dawud & Tirmidzi",
+    "tema": "syukur"
+  },
+  {
+    "id": "hadis-0071",
+    "teks": "Saling memberi hadiahlah, niscaya kalian saling mencintai.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari, Al-Adab Al-Mufrad",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0072",
+    "teks": "Maukah aku tunjukkan sesuatu yang jika kalian lakukan kalian akan saling mencintai? Sebarkanlah salam di antara kalian.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0073",
+    "teks": "Barang siapa ingin dilapangkan rezekinya dan dipanjangkan umurnya, hendaklah ia menyambung silaturahmi.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0074",
+    "teks": "Penyambung silaturahmi bukanlah yang sekadar membalas kebaikan, tetapi yang menyambungnya ketika diputuskan.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0075",
+    "teks": "Tanda orang munafik ada tiga: jika berbicara ia dusta, jika berjanji ia ingkar, dan jika dipercaya ia khianat.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0076",
+    "teks": "Berikanlah upah pekerja sebelum keringatnya kering.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Ibnu Majah",
+    "tema": "usaha"
+  },
+  {
+    "id": "hadis-0077",
+    "teks": "Pedagang yang jujur dan amanah bersama para nabi, orang-orang yang benar, dan para syuhada.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi",
+    "tema": "usaha"
+  },
+  {
+    "id": "hadis-0078",
+    "teks": "Allah merahmati orang yang bermurah hati ketika menjual, ketika membeli, dan ketika menagih.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari",
+    "tema": "usaha"
+  },
+  {
+    "id": "hadis-0079",
+    "teks": "Menuntut ilmu itu wajib bagi setiap muslim.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Ibnu Majah",
+    "tema": "belajar"
+  },
+  {
+    "id": "hadis-0080",
+    "teks": "Barang siapa keluar untuk mencari ilmu, ia berada di jalan Allah hingga ia kembali.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi",
+    "tema": "belajar"
+  },
+  {
+    "id": "hadis-0081",
+    "teks": "Iman itu tujuh puluh lebih cabang; yang paling rendah ialah menyingkirkan gangguan dari jalan.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0082",
+    "teks": "Seorang mukmin bagi mukmin lainnya seperti bangunan, sebagian menguatkan sebagian yang lain.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "usaha"
+  },
+  {
+    "id": "hadis-0083",
+    "teks": "Perumpamaan kaum mukmin dalam saling mencintai dan menyayangi seperti satu tubuh; jika satu anggota sakit, seluruh tubuh ikut merasakannya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0084",
+    "teks": "Seseorang mengikuti agama sahabatnya, maka hendaklah kalian memperhatikan siapa yang dijadikan sahabat.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Abu Dawud & Tirmidzi",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0085",
+    "teks": "Perumpamaan teman yang baik dan teman yang buruk seperti penjual minyak wangi dan pandai besi.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "belajar"
+  },
+  {
+    "id": "hadis-0086",
+    "teks": "Seseorang akan bersama orang yang dicintainya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0087",
+    "teks": "Bukan termasuk golongan kami orang yang tidak menyayangi yang lebih muda dan tidak menghormati yang lebih tua.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0088",
+    "teks": "Tidaklah seseorang bertawadhu karena Allah melainkan Allah mengangkat derajatnya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "usaha"
+  },
+  {
+    "id": "hadis-0089",
+    "teks": "Tidak akan masuk surga orang yang di dalam hatinya ada kesombongan seberat biji sawi.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0090",
+    "teks": "Celakalah orang yang berbicara lalu berdusta untuk membuat orang lain tertawa.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Abu Dawud & Tirmidzi",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0091",
+    "teks": "Cukuplah seseorang dianggap berdusta bila ia menceritakan semua yang ia dengar.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0092",
+    "teks": "Seorang hamba mengucapkan satu kalimat yang diridai Allah tanpa ia sadari, lalu Allah mengangkat derajatnya karenanya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0093",
+    "teks": "Barang siapa menjamin untukku apa yang ada di antara dua rahangnya dan di antara dua kakinya, aku jamin baginya surga.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0094",
+    "teks": "Jika salah seorang dari kalian marah dalam keadaan berdiri, hendaklah ia duduk.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Abu Dawud",
+    "tema": "sabar"
+  },
+  {
+    "id": "hadis-0095",
+    "teks": "Wahai manusia, bertobatlah kepada Allah, karena aku bertobat kepada-Nya seratus kali dalam sehari.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "doa"
+  },
+  {
+    "id": "hadis-0096",
+    "teks": "Setiap anak Adam pernah berbuat salah, dan sebaik-baik orang yang bersalah ialah yang bertobat.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi",
+    "tema": "doa"
+  },
+  {
+    "id": "hadis-0097",
+    "teks": "Allah lebih gembira dengan tobat hamba-Nya daripada seseorang yang menemukan kembali untanya yang hilang di padang pasir.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "waktu"
+  },
+  {
+    "id": "hadis-0098",
+    "teks": "Tidaklah seorang muslim ditimpa kelelahan, sakit, kesedihan, hingga duri yang menusuknya, melainkan Allah menghapus dengannya sebagian kesalahannya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "sabar"
+  },
+  {
+    "id": "hadis-0099",
+    "teks": "Besarnya pahala sebanding dengan besarnya ujian. Apabila Allah mencintai suatu kaum, Dia menguji mereka.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi",
+    "tema": "sabar"
+  },
+  {
+    "id": "hadis-0100",
+    "teks": "Sesungguhnya kesabaran itu pada pukulan pertama.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "sabar"
+  },
+  {
+    "id": "hadis-0101",
+    "teks": "Tidaklah Allah menurunkan penyakit melainkan Dia turunkan pula obatnya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari",
+    "tema": "sabar"
+  },
+  {
+    "id": "hadis-0102",
+    "teks": "Tidak ada seorang pun yang diberi pemberian yang lebih baik dan lebih luas daripada kesabaran.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "sabar"
+  },
+  {
+    "id": "hadis-0103",
+    "teks": "Bersegeralah beramal sebelum datang fitnah seperti potongan malam yang gelap gulita.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "doa"
+  },
+  {
+    "id": "hadis-0104",
+    "teks": "Perbanyaklah mengingat pemutus segala kenikmatan, yaitu kematian.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi",
+    "tema": "doa"
+  },
+  {
+    "id": "hadis-0105",
+    "teks": "Zuhudlah terhadap dunia, niscaya Allah mencintaimu; dan zuhudlah terhadap apa yang ada pada manusia, niscaya manusia mencintaimu.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Ibnu Majah",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0106",
+    "teks": "Sungguh beruntung orang yang berislam, diberi rezeki yang cukup, dan Allah jadikan ia merasa cukup dengan apa yang diberikan kepadanya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "waktu"
+  },
+  {
+    "id": "hadis-0107",
+    "teks": "Barang siapa di pagi hari merasa aman di tempatnya, sehat badannya, dan memiliki makanan untuk hari itu, seakan-akan dunia telah dikumpulkan untuknya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi",
+    "tema": "waktu"
+  },
+  {
+    "id": "hadis-0108",
+    "teks": "Ya Allah, berkahilah umatku pada waktu paginya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Abu Dawud & Tirmidzi",
+    "tema": "waktu"
+  },
+  {
+    "id": "hadis-0109",
+    "teks": "Makanan dua orang cukup untuk tiga orang, dan makanan tiga orang cukup untuk empat orang.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0110",
+    "teks": "Tidaklah anak Adam memenuhi wadah yang lebih buruk daripada perutnya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0111",
+    "teks": "Seorang mukmin bukanlah pencela, bukan pelaknat, bukan pula orang yang berkata keji dan kotor.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Tirmidzi",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0112",
+    "teks": "Barang siapa mencontohkan teladan yang baik dalam Islam, ia mendapat pahalanya dan pahala orang yang mengamalkannya setelahnya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0113",
+    "teks": "Sesungguhnya Allah mewajibkan berbuat ihsan dalam segala hal.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0114",
+    "teks": "Ihsan ialah engkau beribadah kepada Allah seakan-akan engkau melihat-Nya; jika engkau tidak melihat-Nya, sesungguhnya Dia melihatmu.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "ibadah"
+  },
+  {
+    "id": "hadis-0115",
+    "teks": "Katakanlah: \"Aku beriman kepada Allah,\" kemudian istikamahlah.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "usaha"
+  },
+  {
+    "id": "hadis-0116",
+    "teks": "Barang siapa tidak menyayangi manusia, Allah tidak akan menyayanginya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0117",
+    "teks": "Barang siapa menghilangkan satu kesusahan dunia dari seorang mukmin, Allah akan menghilangkan darinya satu kesusahan pada hari kiamat.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Muslim",
+    "tema": "sesama"
+  },
+  {
+    "id": "hadis-0118",
+    "teks": "Sesungguhnya Allah tidak menerima amal kecuali yang ikhlas dan diniatkan untuk mencari wajah-Nya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Nasa'i",
+    "tema": "diri"
+  },
+  {
+    "id": "hadis-0119",
+    "teks": "Sedekah yang paling utama ialah yang engkau berikan ketika engkau sehat, sayang pada harta, takut miskin, dan berangan-angan kaya.",
+    "kategori": "hadis",
+    "penutur": "Nabi Muhammad ﷺ",
+    "rujukan": "HR. Bukhari & Muslim",
+    "tema": "sesama"
+  }
+]

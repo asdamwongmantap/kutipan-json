@@ -1,0 +1,37 @@
+# Crawl harian: menambah kandidat baru dari equran.id, hadith-api, dan Wikiquote Indonesia ke kandidat/.
+# data/ tidak disentuh; kandidat dipindahkan manual dengan `npm run terima`.
+name: Crawl harian
+
+on:
+  schedule:
+    - cron: '0 20 * * *' # 03.00 WIB
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npm run crawl || echo "::warning::Sebagian sumber gagal; kandidat dari sumber lain tetap disimpan."
+      - run: npm run validate
+      - name: Commit kandidat baru
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add kandidat
+          if git diff --cached --quiet; then echo "Tidak ada perubahan."; exit 0; fi
+          git commit -m "chore(kandidat): crawl $(TZ=Asia/Jakarta date +%F)"
+          git push

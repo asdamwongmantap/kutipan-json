@@ -1,0 +1,325 @@
+[
+  {
+    "id": "nasihat-ulama-0001",
+    "teks": "Wahai anak Adam, engkau hanyalah kumpulan hari. Setiap kali satu hari berlalu, hilanglah sebagian dirimu.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Hasan Al-Bashri",
+    "rujukan": "Hilyatul Auliya'",
+    "tema": "doa"
+  },
+  {
+    "id": "nasihat-ulama-0002",
+    "teks": "Ilmu bukanlah yang dihafal, tetapi yang memberi manfaat.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Imam Asy-Syafi'i",
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "nasihat-ulama-0003",
+    "teks": "Jika dirimu tidak disibukkan dengan kebaikan, ia akan menyibukkanmu dengan kebatilan.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Imam Asy-Syafi'i",
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "nasihat-ulama-0004",
+    "teks": "Air yang diam akan keruh; bila mengalir ia menjadi jernih. Merantaulah, engkau akan mendapat pengganti dari yang kau tinggalkan.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Imam Asy-Syafi'i",
+    "rujukan": "Diwan Asy-Syafi'i",
+    "tema": "usaha"
+  },
+  {
+    "id": "nasihat-ulama-0005",
+    "teks": "Siapa yang tidak pernah merasakan pahitnya belajar sesaat, ia akan menelan hinanya kebodohan sepanjang hidupnya.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Imam Asy-Syafi'i",
+    "rujukan": "Diwan Asy-Syafi'i",
+    "tema": "belajar"
+  },
+  {
+    "id": "nasihat-ulama-0006",
+    "teks": "Menyia-nyiakan waktu lebih buruk daripada kematian, karena ia memutuskanmu dari Allah dan negeri akhirat, sedangkan kematian hanya memutuskanmu dari dunia.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Ibnul Qayyim",
+    "rujukan": "Al-Fawaid",
+    "tema": "waktu"
+  },
+  {
+    "id": "nasihat-ulama-0007",
+    "teks": "Apa yang dapat dilakukan musuh-musuhku terhadapku? Surga dan tamanku ada di dadaku, ke mana pun aku pergi ia bersamaku.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Ibnu Taimiyah",
+    "rujukan": "Al-Wabil Ash-Shayyib",
+    "tema": "sesama"
+  },
+  {
+    "id": "nasihat-ulama-0008",
+    "teks": "Boleh jadi amal kecil menjadi besar karena niat, dan boleh jadi amal besar menjadi kecil karena niat.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Abdullah bin Al-Mubarak",
+    "rujukan": "Jami' Al-'Ulum wal Hikam",
+    "tema": "diri"
+  },
+  {
+    "id": "nasihat-ulama-0009",
+    "teks": "Tidak ada yang lebih sulit kuobati daripada niatku, karena ia selalu berbolak-balik.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Sufyan Ats-Tsauri",
+    "rujukan": null,
+    "tema": "doa"
+  },
+  {
+    "id": "nasihat-ulama-0010",
+    "teks": "Siang dan malam bekerja padamu, maka bekerjalah engkau pada keduanya.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Umar bin Abdul Aziz",
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "nasihat-ulama-0011",
+    "teks": "Ilmu tanpa amal adalah kegilaan, dan amal tanpa ilmu tidak akan terwujud.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Imam Al-Ghazali",
+    "rujukan": "Ayyuhal Walad",
+    "tema": "belajar"
+  },
+  {
+    "id": "nasihat-ulama-0012",
+    "teks": "Bersama tinta hingga ke liang lahat.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Imam Ahmad bin Hanbal",
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "nasihat-ulama-0013",
+    "teks": "Ilmu itu didatangi, bukan mendatangi.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Imam Malik",
+    "rujukan": null,
+    "tema": "ibadah"
+  },
+  {
+    "id": "nasihat-ulama-0014",
+    "teks": "Aku mendapati orang-orang yang lebih bersungguh-sungguh menjaga waktunya daripada kalian menjaga dirham dan dinar.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Hasan Al-Bashri",
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "nasihat-ulama-0015",
+    "teks": "Kalau hidup sekadar hidup, babi di hutan juga hidup. Kalau bekerja sekadar bekerja, kera juga bekerja.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Buya Hamka",
+    "rujukan": null,
+    "tema": "usaha",
+    "catatan": "Masyhur dinisbatkan kepada Buya Hamka; rujukan tertulisnya belum dipastikan."
+  },
+  {
+    "id": "nasihat-ulama-0016",
+    "teks": "Dunia ini hanya tiga hari: kemarin telah berlalu, esok belum tentu kau dapati, maka hari inilah milikmu. Beramallah di dalamnya.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Hasan Al-Bashri",
+    "rujukan": null,
+    "tema": "waktu",
+    "catatan": "Masyhur dinisbatkan kepada Hasan Al-Bashri; sanadnya perlu ditinjau."
+  },
+  {
+    "id": "nasihat-ulama-0017",
+    "teks": "Meninggalkan amal karena manusia adalah riya, dan beramal karena manusia adalah syirik. Ikhlas ialah ketika Allah menyelamatkanmu dari keduanya.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Fudhail bin 'Iyadh",
+    "rujukan": "Dinukil An-Nawawi",
+    "tema": "diri"
+  },
+  {
+    "id": "nasihat-ulama-0018",
+    "teks": "Aku mengadu kepada guruku tentang buruknya hafalanku, ia menasihatiku meninggalkan maksiat; sebab ilmu adalah cahaya, dan cahaya Allah tidak diberikan kepada pelaku maksiat.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Imam Asy-Syafi'i",
+    "rujukan": "Diwan Asy-Syafi'i",
+    "tema": "diri"
+  },
+  {
+    "id": "nasihat-ulama-0019",
+    "teks": "Engkau tidak akan meraih ilmu kecuali dengan enam perkara: kecerdasan, semangat, kesungguhan, bekal, bimbingan guru, dan waktu yang panjang.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Imam Asy-Syafi'i",
+    "rujukan": "Diwan Asy-Syafi'i",
+    "tema": "belajar"
+  },
+  {
+    "id": "nasihat-ulama-0020",
+    "teks": "Pendapatku benar tetapi mungkin salah, dan pendapat orang lain salah tetapi mungkin benar.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Imam Asy-Syafi'i",
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "nasihat-ulama-0021",
+    "teks": "Biarkan hari-hari berbuat sesukanya, dan lapangkan hatimu ketika takdir telah menetapkan.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Imam Asy-Syafi'i",
+    "rujukan": "Diwan Asy-Syafi'i",
+    "tema": "sabar"
+  },
+  {
+    "id": "nasihat-ulama-0022",
+    "teks": "Aku mencintai orang-orang saleh walau aku bukan bagian dari mereka, semoga dengan itu aku mendapat syafaat.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Imam Asy-Syafi'i",
+    "rujukan": "Diwan Asy-Syafi'i",
+    "tema": "sesama"
+  },
+  {
+    "id": "nasihat-ulama-0023",
+    "teks": "Manusia lebih membutuhkan ilmu daripada makanan dan minuman, karena makanan dibutuhkan sekali dua kali sehari, sedangkan ilmu dibutuhkan sepanjang tarikan napas.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Imam Ahmad bin Hanbal",
+    "rujukan": "Dinukil Ibnul Qayyim",
+    "tema": "belajar"
+  },
+  {
+    "id": "nasihat-ulama-0024",
+    "teks": "Ilmu bukanlah banyaknya riwayat, tetapi cahaya yang Allah letakkan di dalam hati.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Imam Malik",
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "nasihat-ulama-0025",
+    "teks": "Pelajarilah adab dari gurumu sebelum engkau mempelajari ilmunya.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Ibunda Imam Malik",
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "nasihat-ulama-0026",
+    "teks": "Agama seluruhnya adalah akhlak. Siapa yang melebihimu dalam akhlak, ia melebihimu dalam agama.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Ibnul Qayyim",
+    "rujukan": "Madarij As-Salikin",
+    "tema": "diri"
+  },
+  {
+    "id": "nasihat-ulama-0027",
+    "teks": "Sabar ialah menahan diri dari berkeluh kesah, menahan lisan dari mengadu kepada makhluk, dan menahan anggota badan dari perbuatan yang tidak pantas.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Ibnul Qayyim",
+    "rujukan": "'Uddatush Shabirin",
+    "tema": "sabar"
+  },
+  {
+    "id": "nasihat-ulama-0028",
+    "teks": "Orang yang terpenjara ialah yang hatinya terhalang dari Tuhannya, dan orang yang tertawan ialah yang ditawan hawa nafsunya.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Ibnu Taimiyah",
+    "rujukan": "Al-Wabil Ash-Shayyib",
+    "tema": "diri"
+  },
+  {
+    "id": "nasihat-ulama-0029",
+    "teks": "Barang siapa beramal tanpa ilmu, apa yang ia rusak lebih banyak daripada yang ia perbaiki.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Umar bin Abdul Aziz",
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "nasihat-ulama-0030",
+    "teks": "Kami lebih membutuhkan sedikit adab daripada banyak ilmu.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Abdullah bin Al-Mubarak",
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "nasihat-ulama-0031",
+    "teks": "Seseorang hendaknya mengenali kemuliaan dan nilai waktunya, sehingga tidak menyia-nyiakan sesaat pun tanpa mendekatkan diri kepada Allah.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Ibnul Jauzi",
+    "rujukan": "Shaidul Khathir",
+    "tema": "waktu"
+  },
+  {
+    "id": "nasihat-ulama-0032",
+    "teks": "Tanamlah wujudmu di tanah yang tersembunyi, karena sesuatu yang tumbuh tanpa ditanam, buahnya tidak akan sempurna.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Ibnu 'Athaillah",
+    "rujukan": "Al-Hikam",
+    "tema": "usaha"
+  },
+  {
+    "id": "nasihat-ulama-0033",
+    "teks": "Kesungguhanmu mengejar apa yang sudah dijamin untukmu, dan kelalaianmu terhadap apa yang dituntut darimu, adalah tanda butanya mata hati.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Ibnu 'Athaillah",
+    "rujukan": "Al-Hikam",
+    "tema": "diri"
+  },
+  {
+    "id": "nasihat-ulama-0034",
+    "teks": "Jangan putus asa karena tertundanya pemberian Allah, padahal engkau telah bersungguh-sungguh dalam berdoa.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Ibnu 'Athaillah",
+    "rujukan": "Al-Hikam",
+    "tema": "doa"
+  },
+  {
+    "id": "nasihat-ulama-0035",
+    "teks": "Amal-amal adalah bentuk yang tegak, dan ruhnya adalah rahasia keikhlasan di dalamnya.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Ibnu 'Athaillah",
+    "rujukan": "Al-Hikam",
+    "tema": "diri"
+  },
+  {
+    "id": "nasihat-ulama-0036",
+    "teks": "Di antara tanda bersandar pada amal ialah berkurangnya harapan ketika terjatuh dalam kesalahan.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Ibnu 'Athaillah",
+    "rujukan": "Al-Hikam",
+    "tema": "sabar"
+  },
+  {
+    "id": "nasihat-ulama-0037",
+    "teks": "Istirahatkan dirimu dari sibuk mengatur. Apa yang telah diurus oleh selainmu untukmu, jangan engkau ikut repot mengurusnya.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Ibnu 'Athaillah",
+    "rujukan": "Al-Hikam",
+    "tema": "doa"
+  },
+  {
+    "id": "nasihat-ulama-0038",
+    "teks": "Wahai anakku, nasihat itu mudah; yang sulit adalah menerimanya.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Imam Al-Ghazali",
+    "rujukan": "Ayyuhal Walad",
+    "tema": "sesama"
+  },
+  {
+    "id": "nasihat-ulama-0039",
+    "teks": "Seandainya engkau membaca ilmu seratus tahun dan mengumpulkan seribu kitab, engkau tidak akan layak mendapat rahmat Allah kecuali dengan beramal.",
+    "kategori": "nasihat-ulama",
+    "penutur": "Imam Al-Ghazali",
+    "rujukan": "Ayyuhal Walad",
+    "tema": "belajar"
+  },
+  {
+    "id": "nasihat-ulama-0040",
+    "teks": "Hidup-hidupilah Muhammadiyah, jangan mencari hidup di Muhammadiyah.",
+    "kategori": "nasihat-ulama",
+    "penutur": "K.H. Ahmad Dahlan",
+    "rujukan": null,
+    "tema": "usaha",
+    "catatan": "Masyhur sebagai pesan K.H. Ahmad Dahlan; rujukan tertulisnya belum dipastikan."
+  }
+]

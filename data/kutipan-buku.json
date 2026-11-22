@@ -1,0 +1,331 @@
+[
+  {
+    "id": "kutipan-buku-0001",
+    "teks": "Perjalanan seribu mil dimulai dari satu langkah.",
+    "kategori": "kutipan-buku",
+    "penutur": "Lao Tzu",
+    "rujukan": "Tao Te Ching, bab 64",
+    "tema": "usaha"
+  },
+  {
+    "id": "kutipan-buku-0002",
+    "teks": "Belajar tanpa berpikir itu sia-sia; berpikir tanpa belajar itu berbahaya.",
+    "kategori": "kutipan-buku",
+    "penutur": "Konfusius",
+    "rujukan": "Analek 2:15",
+    "tema": "belajar"
+  },
+  {
+    "id": "kutipan-buku-0003",
+    "teks": "Apa yang tidak kamu inginkan terjadi pada dirimu, jangan lakukan kepada orang lain.",
+    "kategori": "kutipan-buku",
+    "penutur": "Konfusius",
+    "rujukan": "Analek 15:24",
+    "tema": "sesama"
+  },
+  {
+    "id": "kutipan-buku-0004",
+    "teks": "Mengetahui apa yang kamu ketahui dan mengakui apa yang tidak kamu ketahui, itulah pengetahuan.",
+    "kategori": "kutipan-buku",
+    "penutur": "Konfusius",
+    "rujukan": "Analek 2:17",
+    "tema": "diri"
+  },
+  {
+    "id": "kutipan-buku-0005",
+    "teks": "Kita menjadi adil dengan melakukan perbuatan adil, dan menjadi berani dengan melakukan perbuatan berani.",
+    "kategori": "kutipan-buku",
+    "penutur": "Aristoteles",
+    "rujukan": "Etika Nikomakea, Buku II",
+    "tema": "usaha"
+  },
+  {
+    "id": "kutipan-buku-0006",
+    "teks": "Hidup ini tidak singkat; kitalah yang banyak menyia-nyiakannya.",
+    "kategori": "kutipan-buku",
+    "penutur": "Seneca",
+    "rujukan": "De Brevitate Vitae",
+    "tema": "waktu"
+  },
+  {
+    "id": "kutipan-buku-0007",
+    "teks": "Kita lebih sering menderita dalam bayangan daripada dalam kenyataan.",
+    "kategori": "kutipan-buku",
+    "penutur": "Seneca",
+    "rujukan": "Surat kepada Lucilius, 13",
+    "tema": "sabar"
+  },
+  {
+    "id": "kutipan-buku-0008",
+    "teks": "Jangan lagi berdebat tentang seperti apa orang baik itu. Jadilah orang baik.",
+    "kategori": "kutipan-buku",
+    "penutur": "Marcus Aurelius",
+    "rujukan": "Meditations 10.16",
+    "tema": "diri"
+  },
+  {
+    "id": "kutipan-buku-0009",
+    "teks": "Manusia tidak diresahkan oleh peristiwa, melainkan oleh pandangannya tentang peristiwa itu.",
+    "kategori": "kutipan-buku",
+    "penutur": "Epiktetos",
+    "rujukan": "Enchiridion 5",
+    "tema": "sabar"
+  },
+  {
+    "id": "kutipan-buku-0010",
+    "teks": "Ada hal yang berada dalam kendali kita, dan ada yang tidak. Pusatkan tenagamu pada yang pertama.",
+    "kategori": "kutipan-buku",
+    "penutur": "Epiktetos",
+    "rujukan": "Enchiridion 1",
+    "tema": "diri"
+  },
+  {
+    "id": "kutipan-buku-0011",
+    "teks": "Tidur lebih awal dan bangun lebih awal membuat orang sehat, kaya, dan bijak.",
+    "kategori": "kutipan-buku",
+    "penutur": "Benjamin Franklin",
+    "rujukan": "Poor Richard's Almanack",
+    "tema": "waktu"
+  },
+  {
+    "id": "kutipan-buku-0012",
+    "teks": "Setelah mendaki sebuah bukit besar, kita akan mendapati masih banyak bukit lain untuk didaki.",
+    "kategori": "kutipan-buku",
+    "penutur": "Nelson Mandela",
+    "rujukan": "Long Walk to Freedom",
+    "tema": "usaha"
+  },
+  {
+    "id": "kutipan-buku-0013",
+    "teks": "Seorang terpelajar harus sudah berbuat adil sejak dalam pikiran, apalagi dalam perbuatan.",
+    "kategori": "kutipan-buku",
+    "penutur": "Pramoedya Ananta Toer",
+    "rujukan": "Bumi Manusia",
+    "tema": "diri"
+  },
+  {
+    "id": "kutipan-buku-0014",
+    "teks": "Kenali dirimu dan kenali lawanmu, maka dalam seratus pertempuran kamu tidak akan terancam.",
+    "kategori": "kutipan-buku",
+    "penutur": "Sun Tzu",
+    "rujukan": "Seni Perang, bab 3",
+    "tema": "usaha"
+  },
+  {
+    "id": "kutipan-buku-0015",
+    "teks": "Hidup yang tidak direnungkan tidak layak dijalani.",
+    "kategori": "kutipan-buku",
+    "penutur": "Sokrates",
+    "rujukan": "Apologia, Plato",
+    "tema": "diri"
+  },
+  {
+    "id": "kutipan-buku-0016",
+    "teks": "Satu burung layang-layang tidak membuat musim semi; begitu pula satu hari tidak membuat seseorang bahagia.",
+    "kategori": "kutipan-buku",
+    "penutur": "Aristoteles",
+    "rujukan": "Etika Nikomakea, Buku I",
+    "tema": "waktu"
+  },
+  {
+    "id": "kutipan-buku-0017",
+    "teks": "Raihlah setiap jam. Dengan begitu kamu tidak terlalu bergantung pada hari esok.",
+    "kategori": "kutipan-buku",
+    "penutur": "Seneca",
+    "rujukan": "Surat kepada Lucilius, 1",
+    "tema": "waktu"
+  },
+  {
+    "id": "kutipan-buku-0018",
+    "teks": "Bukan orang yang memiliki sedikit yang miskin, melainkan yang selalu menginginkan lebih.",
+    "kategori": "kutipan-buku",
+    "penutur": "Seneca",
+    "rujukan": "Surat kepada Lucilius, 2",
+    "tema": "diri"
+  },
+  {
+    "id": "kutipan-buku-0019",
+    "teks": "Galilah ke dalam dirimu. Di sanalah mata air kebaikan, yang akan terus memancar jika kamu terus menggali.",
+    "kategori": "kutipan-buku",
+    "penutur": "Marcus Aurelius",
+    "rujukan": "Meditations 7.59",
+    "tema": "sesama"
+  },
+  {
+    "id": "kutipan-buku-0020",
+    "teks": "Di pagi hari ketika enggan bangun, ingatlah: aku bangun untuk melakukan pekerjaan seorang manusia.",
+    "kategori": "kutipan-buku",
+    "penutur": "Marcus Aurelius",
+    "rujukan": "Meditations 5.1",
+    "tema": "waktu"
+  },
+  {
+    "id": "kutipan-buku-0021",
+    "teks": "Cara terbaik membalas adalah tidak menjadi seperti orang yang menyakitimu.",
+    "kategori": "kutipan-buku",
+    "penutur": "Marcus Aurelius",
+    "rujukan": "Meditations 6.6",
+    "tema": "sabar"
+  },
+  {
+    "id": "kutipan-buku-0022",
+    "teks": "Tidak ada hal besar yang tercipta secara tiba-tiba.",
+    "kategori": "kutipan-buku",
+    "penutur": "Epiktetos",
+    "rujukan": "Discourses 1.15",
+    "tema": "usaha"
+  },
+  {
+    "id": "kutipan-buku-0023",
+    "teks": "Manusia adalah anak dari kebiasaannya, bukan anak dari tabiat dan wataknya.",
+    "kategori": "kutipan-buku",
+    "penutur": "Ibnu Khaldun",
+    "rujukan": "Muqaddimah",
+    "tema": "usaha"
+  },
+  {
+    "id": "kutipan-buku-0024",
+    "teks": "Kita tidak boleh malu mengakui kebenaran dan mengambilnya dari mana pun ia datang.",
+    "kategori": "kutipan-buku",
+    "penutur": "Al-Kindi",
+    "rujukan": "Fi Al-Falsafah Al-Ula",
+    "tema": "diri"
+  },
+  {
+    "id": "kutipan-buku-0025",
+    "teks": "Optimisme adalah keyakinan yang menuntun pada pencapaian.",
+    "kategori": "kutipan-buku",
+    "penutur": "Helen Keller",
+    "rujukan": "Optimism, 1903",
+    "tema": "waktu"
+  },
+  {
+    "id": "kutipan-buku-0026",
+    "teks": "Semua orang berpikir untuk mengubah dunia, tetapi tak seorang pun berpikir untuk mengubah dirinya sendiri.",
+    "kategori": "kutipan-buku",
+    "penutur": "Leo Tolstoy",
+    "rujukan": "Three Methods of Reform",
+    "tema": "diri"
+  },
+  {
+    "id": "kutipan-buku-0027",
+    "teks": "Aku mau hidup seribu tahun lagi.",
+    "kategori": "kutipan-buku",
+    "penutur": "Chairil Anwar",
+    "rujukan": "Puisi \"Aku\", 1943",
+    "tema": "waktu"
+  },
+  {
+    "id": "kutipan-buku-0028",
+    "teks": "Kesuksesan diukur bukan dari kedudukan yang dicapai, melainkan dari rintangan yang berhasil diatasi.",
+    "kategori": "kutipan-buku",
+    "penutur": "Booker T. Washington",
+    "rujukan": "Up From Slavery",
+    "tema": "usaha"
+  },
+  {
+    "id": "kutipan-buku-0029",
+    "teks": "Waktu yang hilang tidak akan pernah ditemukan kembali.",
+    "kategori": "kutipan-buku",
+    "penutur": "Benjamin Franklin",
+    "rujukan": "Poor Richard's Almanack",
+    "tema": "waktu"
+  },
+  {
+    "id": "kutipan-buku-0030",
+    "teks": "Waspadalah terhadap pengeluaran kecil; kebocoran kecil dapat menenggelamkan kapal besar.",
+    "kategori": "kutipan-buku",
+    "penutur": "Benjamin Franklin",
+    "rujukan": "The Way to Wealth",
+    "tema": "sabar"
+  },
+  {
+    "id": "kutipan-buku-0031",
+    "teks": "Bukankah menyenangkan belajar lalu terus mempraktikkannya?",
+    "kategori": "kutipan-buku",
+    "penutur": "Konfusius",
+    "rujukan": "Analek 1:1",
+    "tema": "belajar"
+  },
+  {
+    "id": "kutipan-buku-0032",
+    "teks": "Ketika melihat orang bijak, berusahalah menyamainya; ketika melihat orang yang tidak bijak, periksalah dirimu sendiri.",
+    "kategori": "kutipan-buku",
+    "penutur": "Konfusius",
+    "rujukan": "Analek 4:17",
+    "tema": "diri"
+  },
+  {
+    "id": "kutipan-buku-0033",
+    "teks": "Orang mulia menuntut dari dirinya sendiri; orang rendah menuntut dari orang lain.",
+    "kategori": "kutipan-buku",
+    "penutur": "Konfusius",
+    "rujukan": "Analek 15:21",
+    "tema": "usaha"
+  },
+  {
+    "id": "kutipan-buku-0034",
+    "teks": "Mengenal orang lain adalah kecerdasan; mengenal diri sendiri adalah kebijaksanaan. Menaklukkan orang lain butuh kekuatan; menaklukkan diri sendiri butuh keperkasaan.",
+    "kategori": "kutipan-buku",
+    "penutur": "Lao Tzu",
+    "rujukan": "Tao Te Ching, bab 33",
+    "tema": "usaha"
+  },
+  {
+    "id": "kutipan-buku-0035",
+    "teks": "Kebaikan tertinggi itu seperti air: memberi manfaat kepada segala sesuatu tanpa berebut.",
+    "kategori": "kutipan-buku",
+    "penutur": "Lao Tzu",
+    "rujukan": "Tao Te Ching, bab 8",
+    "tema": "sabar"
+  },
+  {
+    "id": "kutipan-buku-0036",
+    "teks": "Tetesan air dapat melubangi batu.",
+    "kategori": "kutipan-buku",
+    "penutur": "Ovidius",
+    "rujukan": "Epistulae ex Ponto",
+    "tema": "sabar"
+  },
+  {
+    "id": "kutipan-buku-0037",
+    "teks": "Hidup itu singkat, ilmu itu panjang.",
+    "kategori": "kutipan-buku",
+    "penutur": "Hippokrates",
+    "rujukan": "Aforisme 1.1",
+    "tema": "waktu"
+  },
+  {
+    "id": "kutipan-buku-0038",
+    "teks": "Orang boleh pandai setinggi langit, tapi selama ia tidak menulis, ia akan hilang di dalam masyarakat dan dari sejarah. Menulis adalah bekerja untuk keabadian.",
+    "kategori": "kutipan-buku",
+    "penutur": "Pramoedya Ananta Toer",
+    "rujukan": "Rumah Kaca",
+    "tema": "belajar"
+  },
+  {
+    "id": "kutipan-buku-0039",
+    "teks": "Betapa indahnya bahwa tak seorang pun perlu menunggu sesaat pun sebelum mulai memperbaiki dunia.",
+    "kategori": "kutipan-buku",
+    "penutur": "Anne Frank",
+    "rujukan": "Tales from the Secret Annex",
+    "tema": "sesama"
+  },
+  {
+    "id": "kutipan-buku-0040",
+    "teks": "Makin banyak kamu membaca, makin banyak hal yang kamu tahu. Makin banyak kamu belajar, makin banyak tempat yang akan kamu kunjungi.",
+    "kategori": "kutipan-buku",
+    "penutur": "Dr. Seuss",
+    "rujukan": "I Can Read with My Eyes Shut!",
+    "tema": "belajar"
+  },
+  {
+    "id": "kutipan-buku-0041",
+    "teks": "Kita adalah apa yang kita lakukan berulang kali. Maka keunggulan bukanlah tindakan, melainkan kebiasaan.",
+    "kategori": "kutipan-buku",
+    "penutur": "Will Durant",
+    "rujukan": "The Story of Philosophy",
+    "tema": "usaha",
+    "catatan": "Ringkasan Will Durant atas pemikiran Aristoteles (The Story of Philosophy), sering keliru dikutip sebagai kata Aristoteles."
+  }
+]

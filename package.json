@@ -1,0 +1,19 @@
+{
+  "name": "kutipan-json",
+  "version": "1.0.0",
+  "description": "Dataset JSON kutipan berbahasa Indonesia: ayat Al-Qur'an, hadis, nasihat sahabat dan ulama, hikmah, peribahasa, kutipan buku, kata bijak, dan motivasi.",
+  "license": "(MIT AND CC-BY-SA-4.0)",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": ["data", "schema", "index.js", "index.d.ts"],
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "crawl": "node scripts/crawl.js",
+    "terima": "node scripts/terima.js",
+    "tolak": "node scripts/tolak.js"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1"
+  }
+}

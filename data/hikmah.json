@@ -1,0 +1,181 @@
+[
+  {
+    "id": "hikmah-0001",
+    "teks": "Man jadda wajada: siapa yang bersungguh-sungguh, ia akan berhasil.",
+    "kategori": "hikmah",
+    "penutur": "Mahfudzat",
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "hikmah-0002",
+    "teks": "Man shabara zhafira: siapa yang bersabar, ia akan beruntung.",
+    "kategori": "hikmah",
+    "penutur": "Mahfudzat",
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "hikmah-0003",
+    "teks": "Man sara ‘ala darbi washala: siapa yang berjalan di jalannya, ia akan sampai.",
+    "kategori": "hikmah",
+    "penutur": "Mahfudzat",
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "hikmah-0004",
+    "teks": "Waktu bagaikan pedang. Jika kamu tidak memotongnya, ia yang akan memotongmu.",
+    "kategori": "hikmah",
+    "penutur": "Mahfudzat",
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "hikmah-0005",
+    "teks": "Pemuda bukanlah yang berkata “inilah ayahku”, tetapi yang berkata “inilah aku”.",
+    "kategori": "hikmah",
+    "penutur": "Mahfudzat",
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "hikmah-0006",
+    "teks": "Ilmu tanpa amal bagaikan pohon tanpa buah.",
+    "kategori": "hikmah",
+    "penutur": "Mahfudzat",
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "hikmah-0007",
+    "teks": "Man zara‘a hashada: siapa yang menanam, ia akan menuai.",
+    "kategori": "hikmah",
+    "penutur": "Mahfudzat",
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "hikmah-0008",
+    "teks": "Kebersihan adalah sebagian dari iman.",
+    "kategori": "hikmah",
+    "penutur": "Mahfudzat",
+    "rujukan": null,
+    "tema": "ibadah",
+    "catatan": "Sering dikira hadis, padahal bukan; ini ungkapan hikmah (mahfudzat)."
+  },
+  {
+    "id": "hikmah-0009",
+    "teks": "Jangan menunda pekerjaan hari ini sampai esok hari.",
+    "kategori": "hikmah",
+    "penutur": "Mahfudzat",
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "hikmah-0010",
+    "teks": "Pertanyaan yang baik adalah separuh dari ilmu.",
+    "kategori": "hikmah",
+    "penutur": "Mahfudzat",
+    "rujukan": null,
+    "tema": "belajar"
+  },
+  {
+    "id": "hikmah-0011",
+    "teks": "Kesehatan adalah mahkota di kepala orang sehat yang hanya terlihat oleh orang sakit.",
+    "kategori": "hikmah",
+    "penutur": "Pepatah Arab",
+    "rujukan": null,
+    "tema": "waktu"
+  },
+  {
+    "id": "hikmah-0012",
+    "teks": "Lihatlah apa yang dikatakan, jangan melihat siapa yang mengatakan.",
+    "kategori": "hikmah",
+    "penutur": "Mahfudzat",
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "hikmah-0013",
+    "teks": "Keselamatan manusia terletak pada kemampuannya menjaga lisan.",
+    "kategori": "hikmah",
+    "penutur": "Mahfudzat",
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "hikmah-0014",
+    "teks": "Siapa yang sedikit kejujurannya, sedikit pula temannya.",
+    "kategori": "hikmah",
+    "penutur": "Mahfudzat",
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "hikmah-0015",
+    "teks": "Sebaik-baik perkara adalah yang pertengahan.",
+    "kategori": "hikmah",
+    "penutur": "Mahfudzat",
+    "rujukan": null,
+    "tema": "diri"
+  },
+  {
+    "id": "hikmah-0016",
+    "teks": "Bekerjalah untuk duniamu seakan engkau hidup selamanya, dan beramallah untuk akhiratmu seakan engkau mati esok hari.",
+    "kategori": "hikmah",
+    "penutur": "Mahfudzat",
+    "rujukan": null,
+    "tema": "usaha",
+    "catatan": "Sering dikira hadis, padahal bukan; ini ungkapan hikmah (mahfudzat)."
+  },
+  {
+    "id": "hikmah-0017",
+    "teks": "Sahabatmu adalah yang jujur kepadamu, bukan yang selalu membenarkanmu.",
+    "kategori": "hikmah",
+    "penutur": "Mahfudzat",
+    "rujukan": null,
+    "tema": "sesama"
+  },
+  {
+    "id": "hikmah-0018",
+    "teks": "Tuntutlah ilmu dari buaian hingga liang lahat.",
+    "kategori": "hikmah",
+    "penutur": "Pepatah Arab",
+    "rujukan": null,
+    "tema": "belajar",
+    "catatan": "Sering dikira hadis, padahal bukan; ini ungkapan hikmah (mahfudzat)."
+  },
+  {
+    "id": "hikmah-0019",
+    "teks": "Siapa yang menggali lubang untuk saudaranya, ia sendiri akan terjatuh ke dalamnya.",
+    "kategori": "hikmah",
+    "penutur": "Mahfudzat",
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "hikmah-0020",
+    "teks": "Kesabaran itu pahit, tetapi buahnya manis.",
+    "kategori": "hikmah",
+    "penutur": "Pepatah Arab",
+    "rujukan": null,
+    "tema": "sabar"
+  },
+  {
+    "id": "hikmah-0021",
+    "teks": "Pengalaman adalah guru yang terbaik.",
+    "kategori": "hikmah",
+    "penutur": "Mahfudzat",
+    "rujukan": null,
+    "tema": "usaha"
+  },
+  {
+    "id": "hikmah-0022",
+    "teks": "Ilmu itu tersimpan di dalam dada, bukan di dalam tulisan.",
+    "kategori": "hikmah",
+    "penutur": "Mahfudzat",
+    "rujukan": null,
+    "tema": "belajar"
+  }
+]
