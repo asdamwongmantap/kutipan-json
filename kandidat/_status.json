@@ -1,18 +1,18 @@
 {
   "equran": {
-    "surat": 1
+    "surat": 5
   },
   "hadis": {
-    "bukhari": 3,
-    "muslim": 44,
-    "abudawud": 14,
-    "tirmidhi": 2,
-    "nasai": 49,
-    "ibnmajah": 26,
-    "malik": 39
+    "bukhari": 5,
+    "muslim": 46,
+    "abudawud": 16,
+    "tirmidhi": 4,
+    "nasai": 0,
+    "ibnmajah": 28,
+    "malik": 41
   },
   "wikiquote": {
-    "lanjut": "Mancaluk_padaringan_urang"
+    "lanjut": "Mara_jangan_dipukat,_rezeki_jangan_ditolak"
   },
-  "terakhir": "2026-11-22"
+  "terakhir": "2026-11-23"
 }
