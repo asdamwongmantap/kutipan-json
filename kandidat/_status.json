@@ -1,18 +1,18 @@
 {
   "equran": {
-    "surat": 5
+    "surat": 9
   },
   "hadis": {
-    "bukhari": 5,
-    "muslim": 46,
-    "abudawud": 16,
-    "tirmidhi": 4,
-    "nasai": 0,
-    "ibnmajah": 28,
-    "malik": 41
+    "bukhari": 7,
+    "muslim": 48,
+    "abudawud": 18,
+    "tirmidhi": 6,
+    "nasai": 2,
+    "ibnmajah": 30,
+    "malik": 43
   },
   "wikiquote": {
-    "lanjut": "Mara_jangan_dipukat,_rezeki_jangan_ditolak"
+    "lanjut": "Maria_Goretti"
   },
-  "terakhir": "2026-11-23"
+  "terakhir": "2026-11-24"
 }
