@@ -1,18 +1,18 @@
 {
   "equran": {
-    "surat": 9
+    "surat": 13
   },
   "hadis": {
-    "bukhari": 7,
-    "muslim": 48,
-    "abudawud": 18,
-    "tirmidhi": 6,
-    "nasai": 2,
-    "ibnmajah": 30,
-    "malik": 43
+    "bukhari": 9,
+    "muslim": 50,
+    "abudawud": 20,
+    "tirmidhi": 8,
+    "nasai": 4,
+    "ibnmajah": 32,
+    "malik": 45
   },
   "wikiquote": {
-    "lanjut": "Maria_Goretti"
+    "lanjut": "Marion_Jola"
   },
-  "terakhir": "2026-11-24"
+  "terakhir": "2026-11-25"
 }
