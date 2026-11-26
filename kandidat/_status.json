@@ -1,18 +1,18 @@
 {
   "equran": {
-    "surat": 13
+    "surat": 17
   },
   "hadis": {
-    "bukhari": 9,
-    "muslim": 50,
-    "abudawud": 20,
-    "tirmidhi": 8,
-    "nasai": 4,
-    "ibnmajah": 32,
-    "malik": 45
+    "bukhari": 11,
+    "muslim": 52,
+    "abudawud": 22,
+    "tirmidhi": 10,
+    "nasai": 6,
+    "ibnmajah": 34,
+    "malik": 47
   },
   "wikiquote": {
-    "lanjut": "Marion_Jola"
+    "lanjut": "Mary_Anning"
   },
-  "terakhir": "2026-11-25"
+  "terakhir": "2026-11-26"
 }
