@@ -1,18 +1,18 @@
 {
   "equran": {
-    "surat": 21
+    "surat": 25
   },
   "hadis": {
-    "bukhari": 13,
-    "muslim": 54,
-    "abudawud": 24,
-    "tirmidhi": 12,
-    "nasai": 8,
-    "ibnmajah": 36,
-    "malik": 49
+    "bukhari": 15,
+    "muslim": 0,
+    "abudawud": 26,
+    "tirmidhi": 14,
+    "nasai": 10,
+    "ibnmajah": 1,
+    "malik": 51
   },
   "wikiquote": {
-    "lanjut": "Masih_Belajar"
+    "lanjut": "May_Sarton"
   },
-  "terakhir": "2026-11-27"
+  "terakhir": "2026-11-28"
 }
